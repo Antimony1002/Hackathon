@@ -60,7 +60,7 @@
 - 保证可访问性和 SEO 友好
 
 ## API调用
-- 使用API sk-97e3c59e8e6646edaff3e87fd27265eb
+- 使用API //填写自己的API
 - API用于读取文件内容，生成模拟卷。
 - API调用示例：
     - 请求URL：POST https://api.deepseek.cn/v1/chat/completions
