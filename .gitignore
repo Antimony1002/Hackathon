@@ -1,0 +1,14 @@
+.env
+.env.*
+*.env
+config/secrets.*
+keys/
+models/*.pt
+models/*.pth
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+logs/
+checkpoints/
+wandb/
+mlruns/
